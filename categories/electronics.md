@@ -4,9 +4,9 @@ title: "Electronics"
 
 **[Home](../index.md) \| [GNU/Linux](../categories/gnu_linux.md) \| [Windows](../categories/windows.md) \| [Electronics](../categories/electronics.md)**
 
-### 
+### Find Me Elsewhere!
 
-[YouTube](https:/categories/www.youtube.com/channel/UC1DmNsVZi4ETPQ57kNw7EeA) \| [Twitch](https:/categories/www.twitch.tv/nkrepair) \| [Glimesh](https:/categories/glimesh.tv/nkrepair) \| [GitHub](
+[YouTube](https:/categories/www.youtube.com/channel/UC1DmNsVZi4ETPQ57kNw7EeA) \| [Twitch](https:/categories/www.twitch.tv/nkrepair) \| [Glimesh](https:/categories/glimesh.tv/nkrepair) \| [GitHub](https://github.com/nkREPAIR)
 
 ## Electronics
 
