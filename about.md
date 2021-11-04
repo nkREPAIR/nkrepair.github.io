@@ -1,3 +1,11 @@
+---
+layout: post
+title: "About"
+permalink: /about/
+---
+
+
+
 <p align="center">
 	&bull;
 	<a href="index.md">Home</a>
@@ -11,6 +19,7 @@
 	<a href="windows.md">Windows</a>
 	&bull;
 </p>
+
 
 
 ## About
