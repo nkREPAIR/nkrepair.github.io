@@ -1,6 +1,6 @@
 <p align="center">
 	&bull;
-	<a href="README.md">Home</a>
+	<a href="index.md">Home</a>
 	&bull;
 	<a href="about.md">About</a>
 	&bull;
