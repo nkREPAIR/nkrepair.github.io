@@ -14,9 +14,9 @@ I am a newbie Electronics Repair and IT Technician. I wanted to a keep a knowled
 
 To be a knowledge base for anyone seeking knowledge in electronics, and IT.
 
-### Follow Me!
+### Find Me Elsewhere!
 
-[YouTube](https:/categories/www.youtube.com/channel/UC1DmNsVZi4ETPQ57kNw7EeA) \| [Twitch](https:/categories/www.twitch.tv/nkrepair) \| [Glimesh](https:/categories/glimesh.tv/nkrepair) \| [GitHub](https:/categories/github.com/nkREPAIR)
+[YouTube](https:/categories/www.youtube.com/channel/UC1DmNsVZi4ETPQ57kNw7EeA) \| [Twitch](https:/categories/www.twitch.tv/nkrepair) \| [Glimesh](https:/categories/glimesh.tv/nkrepair) \| [GitHub](https://github.com/nkREPAIR)
 
 
 
