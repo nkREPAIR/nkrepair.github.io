@@ -4,7 +4,7 @@
 	&bull;
 	<a href="#about.md">About</a>
 	&bull;
-	<a href="#electronics.md">Core features</a>
+	<a href="#electronics.md">Electronics</a>
 	&bull;
 	<a href="#gnu_linux.md">GNU/Linux</a>
 	&bull;
