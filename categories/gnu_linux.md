@@ -2,7 +2,7 @@
 title: "GNU/Linux"
 ---
 
-**[Home](./index.md) $\bull$ [FOSS Library](../categories/foss_l.md) $\bull$ [GNU/Linux](./categories/gnu_linux.md) $\bull$ [Windows](./categories/windows.md) $\bull$ [Electronics](./categories/electronics.md) $\bull$ [IT Tech](./categories/it_tech.md)**
+**[Home](./index.md) \| [FOSS Library](../categories/foss_l.md) \| [GNU/Linux](./categories/gnu_linux.md) \| [Windows](./categories/windows.md) \| [Electronics](./categories/electronics.md) \| [IT Tech](./categories/it_tech.md)**
 
 ## GNU/Linux
 
