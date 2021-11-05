@@ -16,7 +16,7 @@ I want to be able to reference the knowledge and reference I’ve collected for 
 
 ### TODO:
 
-- [ ] Finish all categories/[landing].md
+- [x] Finish all categories/[landing].md
 - [ ] Finish GNU/Linux Articles
 - [ ] Finish IT Tech Articles
 - [ ] Finish Windows Articles
