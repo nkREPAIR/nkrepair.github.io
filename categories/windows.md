@@ -2,14 +2,17 @@
 title: "Windows"
 ---
 
-**[Home](../index.md) \| [GNU/Linux](../categories/gnu_linux.md) \| [Windows](../categories/windows.md) \| [Electronics](../categories/electronics.md)**
+**[Home](./index.md) $\bull$ [FOSS Library](../categories/foss_l.md) $\bull$ [GNU/Linux](./categories/gnu_linux.md) $\bull$ [Windows](./categories/windows.md) $\bull$ [Electronics](./categories/electronics.md) $\bull$ [IT Tech](./categories/it_tech.md)**
 
-## Windows 10
+## Windows
 
-These guides will walk you through how I “fix” many issues with Windows operating systems
 
-|    Quality of Life    |    ISO Customization    | Games               |
-| :-------------------: | :---------------------: | ------------------- |
-|        Debloat        |      Answer Files       | Emulation Guide     |
-| Privacy and Telemetry | Customizing Windows ISO | PS4/5 Gamepad Setup |
 
+### How I Deal with Windows
+
+| Quality of Life       | ISO Customization       |
+| :-------------------- | :---------------------- |
+| Debloat               | Answer Files            |
+| Privacy and Telemetry | Customizing Windows ISO |
+| Chocolatey and Winget |                         |
+| Belarc Advisor        |                         |

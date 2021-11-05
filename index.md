@@ -2,45 +2,19 @@
 title: "Index"
 ---
 
-**[Home](./index.md) \| [GNU/Linux](./categories/gnu_linux.md) \| [Windows](./categories/windows.md) \| [Electronics](./categories/electronics.md)**
+**[Home](./index.md) $\bull$ [FOSS Library](../categories/foss_l.md) $\bull$ [GNU/Linux](./categories/gnu_linux.md) $\bull$ [Windows](./categories/windows.md) $\bull$ [Electronics](./categories/electronics.md) $\bull$ [IT Tech](./categories/it_tech.md)**
 
-## Welcome to nkREPAIR!
-
-### About
-
-I am a newbie Electronics Repair and IT Technician. I wanted to a keep a knowledge base of all everything I’ve learned and decided to publish it publicly so it may one day help someone else.
-
-### My Vision
-
-To be a knowledge base for anyone seeking knowledge in electronics, and IT.
-
-### Find Me Elsewhere!
-
-[YouTube](https:/categories/www.youtube.com/channel/UC1DmNsVZi4ETPQ57kNw7EeA) \| [Twitch](https:/categories/www.twitch.tv/nkrepair) \| [Glimesh](https:/categories/glimesh.tv/nkrepair) \| [GitHub](https://github.com/nkREPAIR)
+## Electronics and IT Knowledge Base
 
 
 
+### Purpose
+
+I want to be able to reference the knowledge and reference I’ve collected for my electronics repair and IT work without fear they may be lost because someone else took it down. This will be an offline mirror to knowledge I’ve gathered online. It will also be a place where people can find offline alternatives to online-only services and tools
 
 
 
+### Follow Me Elsewhere!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**[GitHub](https:/categories/github.com/nkREPAIR) $\bull$ [Glimesh](https:/categories/glimesh.tv/nkrepair) $\bull$ [Twitch](https:/categories/www.twitch.tv/nkrepair)  $\bull$ [YouTube](https:/categories/www.youtube.com/channel/UC1DmNsVZi4ETPQ57kNw7EeA)**
 
