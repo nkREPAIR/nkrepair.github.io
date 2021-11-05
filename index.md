@@ -16,5 +16,4 @@ I want to be able to reference the knowledge and reference I’ve collected for 
 
 ### Follow Me Elsewhere!
 
-**[GitHub](https:/categories/github.com/nkREPAIR) $\bull$ [Glimesh](https:/categories/glimesh.tv/nkrepair) $\bull$ [Twitch](https:/categories/www.twitch.tv/nkrepair)  $\bull$ [YouTube](https:/categories/www.youtube.com/channel/UC1DmNsVZi4ETPQ57kNw7EeA)**
-
+**[GitHub](https:/categories/github.com/nkREPAIR) \| [Glimesh](https:/categories/glimesh.tv/nkrepair) \| [Twitch](https:/categories/www.twitch.tv/nkrepair)  \| [YouTube](https:/categories/www.youtube.com/channel/UC1DmNsVZi4ETPQ57kNw7EeA)**
